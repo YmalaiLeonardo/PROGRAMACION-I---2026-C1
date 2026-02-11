@@ -11,14 +11,14 @@ Programa de consola que hace sumas, restas, multiplicaciones y divisiones.
 
 ### 3. Compilar
 Escribe esto en la terminal:
-```bash javac CalculadoraMatematica.java`
+`bash javac CalculadoraMatematica.java`
 
 ### 4. Ejecutar
 Escribe esto en la terminal:
 java CalculadoraMatematica
 
-Ejemplo de uso:
------CALCULADORA MATEMÁTICA-----
+### Ejemplo de uso:
+`-----CALCULADORA MATEMÁTICA-----
 
 Ingresa el numero 1>> 10
 Ingresa el numero 2>> 5
@@ -31,7 +31,7 @@ Menu de operaciones
 0. Salir
 Selecciona una opcion>> 1
 
-Resultado de la suma: 15.0
+Resultado de la suma: 15.0`
 
 
 Autor:
