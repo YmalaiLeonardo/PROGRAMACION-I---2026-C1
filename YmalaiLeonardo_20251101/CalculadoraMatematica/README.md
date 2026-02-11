@@ -15,10 +15,10 @@ Escribe esto en la terminal:
 
 ### 4. Ejecutar
 Escribe esto en la terminal:
-java CalculadoraMatematica
+`java CalculadoraMatematica`
 
 ### Ejemplo de uso:
-`-----CALCULADORA MATEMÁTICA-----
+-----CALCULADORA MATEMÁTICA-----
 
 Ingresa el numero 1>> 10
 Ingresa el numero 2>> 5
@@ -31,7 +31,7 @@ Menu de operaciones
 0. Salir
 Selecciona una opcion>> 1
 
-Resultado de la suma: 15.0`
+Resultado de la suma: 15.0
 
 
 Autor:
