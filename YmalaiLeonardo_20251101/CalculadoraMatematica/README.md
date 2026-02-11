@@ -12,8 +12,7 @@ Programa de consola que hace sumas, restas, multiplicaciones y divisiones.
 ### 3. Compilar
 Escribe esto en la terminal:
 ```bash`
-javac CalculadoraMatematica.java
-
+```javac CalculadoraMatematica.java`
 
 ### 4. Ejecutar
 Escribe esto en la terminal:
