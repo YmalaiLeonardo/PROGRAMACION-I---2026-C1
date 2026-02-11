@@ -1,4 +1,9 @@
+CalculadoraMatematica
+Aplicacion de consola en Java que realiza operaciones matematicas basicas.
+
 Como ejecutar
+
+Descargar el repositorio desde GitHub.
 
 Abrir el proyecto en NetBeans o cualquier IDE compatible con Java.
 
