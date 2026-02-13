@@ -33,6 +33,7 @@ Selecciona una opcion>> 1
 
 Resultado de la suma: 15.0
 
+---
 
 Autor:
 Ymalai Dorangel Leonardo Ramon
