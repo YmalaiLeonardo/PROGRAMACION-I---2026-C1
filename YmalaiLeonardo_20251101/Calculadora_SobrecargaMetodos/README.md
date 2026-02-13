@@ -1,8 +1,7 @@
 # 🧮 Calculadora con Sobrecarga de Métodos en Java
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![POO](https://img.shields.io/badge/POO-Sobrecarga-FF6F00?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![Java]
+![POO]
 
 ## 📋 Descripción
 
