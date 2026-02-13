@@ -38,4 +38,5 @@ El programa implementa una calculadora que puede realizar operaciones matemátic
 
 ## 👨‍💻 Autor
 **Ymalai Dorangel Leonardo Ramon**  
-📍 ITLA · Programación Orientada a Objetos · 2026
+📍 ITLA · Programación Orientada a Objetos
+Febrero 2026
