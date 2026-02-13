@@ -1,8 +1,5 @@
 # 🧮 Calculadora con Sobrecarga de Métodos en Java
 
-![Java]
-![POO]
-
 ## 📋 Descripción
 
 **Calculadora_SobrecargaMetodos** es un programa en Java que demuestra el concepto de **SOBRECARGA DE MÉTODOS (Overloading)** en Programación Orientada a Objetos.
