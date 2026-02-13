@@ -6,7 +6,6 @@
 
 El programa implementa una calculadora que puede realizar operaciones matemáticas básicas (suma, resta, multiplicación y división) con **diferente cantidad de parámetros**.
 
----
 
 ## ✨ Características
 
