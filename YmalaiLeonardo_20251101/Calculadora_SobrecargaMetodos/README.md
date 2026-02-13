@@ -39,4 +39,4 @@ El programa implementa una calculadora que puede realizar operaciones matemátic
 ## 👨‍💻 Autor
 **Ymalai Dorangel Leonardo Ramon**  
 📍 ITLA · Programación Orientada a Objetos
-Febrero 2026
+· Febrero 2026
