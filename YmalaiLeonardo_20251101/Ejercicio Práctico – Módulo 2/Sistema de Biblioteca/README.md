@@ -54,9 +54,11 @@ Este proyecto fue desarrollado como práctica académica y muestra la implementa
    ```
 ---
 
-##👨‍💻 AUTOR
+## 👨‍💻 Autor 
 **Ymalai Dorangel Leonardo Ramon**
-**Estudiante de Desarrollo de Software**
 
-**Institución:** ITLA - Instituto Tecnológico de Las Américas
+**Estudiante Desarrollo de Software**
+
+**Institucion:** Intituto Tecnologico de las Americas - ITLA
+
 **Fecha:** Febrero 2026
