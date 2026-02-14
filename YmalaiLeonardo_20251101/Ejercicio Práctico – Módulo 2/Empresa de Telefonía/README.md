@@ -45,10 +45,10 @@ Este proyecto fue desarrollado como práctica de **Programación Orientada a Obj
 
 1. **Compilar todos los archivos:**
    ```bash
-   javac Plan.java Cliente.java Factura.java MainTelefonia.java
+   javac Plan.java Cliente.java Factura.java EmpresaTelefonia.java
 2. **Ejecutar el programa:**
     ```bash
-   java MainTelefonia
+   java EmpresaTelefonia
    ```
 
 ---
