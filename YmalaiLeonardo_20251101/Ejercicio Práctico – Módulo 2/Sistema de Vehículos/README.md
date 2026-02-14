@@ -6,7 +6,6 @@
 
 Este proyecto fue desarrollado como práctica académica para entender cómo un mismo método o constructor puede comportarse de manera diferente según los parámetros que recibe.
 
----
 
 ## ✨ CARACTERÍSTICAS
 
@@ -31,7 +30,6 @@ Este proyecto fue desarrollado como práctica académica para entender cómo un 
 - ✅ Visualización de información del vehículo
 - ✅ Demostración práctica de sobrecarga de métodos y constructores
 
----
 
 ## 🚀 CÓMO EJECUTAR
 
@@ -49,7 +47,6 @@ Este proyecto fue desarrollado como práctica académica para entender cómo un 
    java SistemaVehiculos
    ```
 
----
 
 ## 👨‍💻 Autor 
 **Ymalai Dorangel Leonardo Ramon**
