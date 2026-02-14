@@ -52,6 +52,6 @@ Este proyecto fue desarrollado como práctica académica para entender cómo un 
 
 **Estudiante Desarrollo de Software**
 
-**Institucion:** Intituto Tecnologico de las Americas - ITLA
+**Institucion:** Instituto Tecnológico de las Americas - ITLA
 
 **Fecha:** Febrero 2026
