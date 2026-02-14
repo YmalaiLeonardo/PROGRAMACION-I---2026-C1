@@ -19,10 +19,9 @@ Este proyecto fue desarrollado como práctica académica para entender cómo un 
 #### **Métodos Sobrecargados calcularMantenimiento():**
 - `calcularMantenimiento(int km)` - Calcula costo solo por kilometraje ($0.05 por km)
 - `calcularMantenimiento(int km, String tipoServicio)` - Calcula costo por km + tipo de servicio
-  - **Básico:** sin recargo
+  - **Básico:** +$20
   - **Completo:** +$50
   - **Premium:** +$120
-- `calcularMantenimiento(int km, String tipoServicio, int añosUso)` - Calcula costo completo incluyendo recargo por antigüedad ($15 por año)
 
 ### 📊 **Funcionalidades**
 - ✅ Creación de vehículos con diferentes niveles de información
