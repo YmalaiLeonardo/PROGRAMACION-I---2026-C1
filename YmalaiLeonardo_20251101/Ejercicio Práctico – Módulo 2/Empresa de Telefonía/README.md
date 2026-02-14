@@ -1,6 +1,5 @@
 # 📱 Sistema de Facturación Telefónica
 
----
 
 ## 📋 DESCRIPCIÓN
 
