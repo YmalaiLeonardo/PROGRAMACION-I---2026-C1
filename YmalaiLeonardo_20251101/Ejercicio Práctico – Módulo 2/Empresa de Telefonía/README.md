@@ -55,6 +55,9 @@ Este proyecto fue desarrollado como práctica de **Programación Orientada a Obj
 
 ## 👨‍💻 Autor 
 **Ymalai Dorangel Leonardo Ramon**
+
 **Estudiante Desarrollo de Software**
+
 **Institucion:** Intituto Tecnologico de las Americas - ITLA
+
 **Fecha:** Febrero 2026
