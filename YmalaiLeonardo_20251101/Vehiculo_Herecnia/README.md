@@ -3,9 +3,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![POO](https://img.shields.io/badge/POO-Herencia-4A4A55?style=for-the-badge)
 ![Encapsulamiento](https://img.shields.io/badge/Encapsulamiento-4B8BBE?style=for-the-badge&logo=lock&logoColor=white)
-![Encapsulamiento](https://img.shields.io/badge/Encapsulamiento-2C3E50?style=flat-square&logo=java&logoColor=white)
-![Encapsulamiento](https://img.shields.io/badge/Encapsulamiento-FF6F00?style=for-the-badge&logo=java&logoColor=white)
-![Encapsulamiento](https://img.shields.io/badge/Encapsulamiento-6A4E9B?style=for-the-badge&logo=java&logoColor=white)
 
 ## 📋 DESCRIPCIÓN
 
