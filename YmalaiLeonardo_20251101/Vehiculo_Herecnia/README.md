@@ -2,8 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![POO](https://img.shields.io/badge/POO-Herencia-4A4A55?style=for-the-badge)
-![POO-Encapsulamiento](https://img.shields.io/badge/POO-Encapsulamiento-9C27B0?style=for-the-badge&logo=java&logoColor=white)
-
+![Encapsulamiento](https://img.shields.io/badge/Encapsulamiento-4B8BBE?style=for-the-badge&logo=lock&logoColor=white)
 
 ## 📋 DESCRIPCIÓN
 
