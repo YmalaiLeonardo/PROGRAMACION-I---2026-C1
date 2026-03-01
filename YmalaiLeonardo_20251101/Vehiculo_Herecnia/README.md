@@ -29,10 +29,10 @@
 
 ## 🚀 CÓMO EJECUTAR
 
-# Compilar
+### Compilar
 `javac Vehiculo_Herencia.java AutoMovil.java HondaCivic.java`
 
-# Ejecutar
+### Ejecutar
 `java Vehiculo_Herencia`
 
 ## 👨‍💻 AUTOR
