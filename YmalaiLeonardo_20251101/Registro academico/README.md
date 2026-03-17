@@ -43,13 +43,13 @@ RegistroAcademico/
 1. Descarga los archivos del repositorio:
    - `Main.java`
    - `Estudiante.java`
-   - `RegistroAcademicoGui.java`
+   - `RegistroAcademicoGUI.java`
 
 2. Coloca los 3 archivos en la misma carpeta
 
 3. Compila los archivos:
 ```
-javac Estudiante.java RegistroAcademicoGui.java Main.java
+javac Estudiante.java RegistroAcademicoGUI.java Main.java
 ```
 
 4. Ejecuta el programa:
