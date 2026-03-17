@@ -2,7 +2,7 @@
 
 Aplicación de escritorio desarrollada en Java con interfaz gráfica Swing que permite registrar los datos de un estudiante, ingresar sus calificaciones y calcular automáticamente su nota final, determinando si aprobó o reprobó el curso.
 
----
+
 
 ## ✨ Características
 
@@ -19,7 +19,7 @@ Aplicación de escritorio desarrollada en Java con interfaz gráfica Swing que p
 - Limpieza automática del formulario después de calcular
 - Interfaz centrada y adaptable al tamaño de la ventana
 
----
+
 
 ## 🗂️ Estructura del proyecto
 ```
@@ -30,6 +30,8 @@ RegistroAcademico/
 │   └── RegistroAcademicoGUI.java
 └── nbproject/
 ```
+
+
 
 ## ▶️ Cómo ejecutar
 
@@ -55,7 +57,7 @@ javac Estudiante.java RegistroAcademicoGui.java Main.java
 java Main
 ```
 
----
+
 
 ## 📋 Uso
 
@@ -66,7 +68,7 @@ java Main
 5. Presiona **Calcular Resultado**
 6. El panel derecho mostrará la nota final y el resultado
 
----
+
 
 ## 🛠️ Tecnologías
 
@@ -74,7 +76,7 @@ java Main
 - Java Swing
 - NetBeans IDE
 
----
+
 
 ## 👨‍💻 AUTOR
 **Ymalai Dorangel Leonardo Ramon**  
