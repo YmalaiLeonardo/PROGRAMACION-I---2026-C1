@@ -27,7 +27,7 @@ Potencia: Math.pow(base, exp)
 - **Java Swing** para la interfaz gráfica
 - **Apache NetBeans IDE**
 - **Principios de POO**
-- 
+  
 ## 🗂️ Estructura del proyecto
 ```
 CalculadoraExtendida/
