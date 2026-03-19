@@ -37,7 +37,8 @@ CalculadoraExtendida/
 │   ├── Calculadora.java            # Lógica de operaciones aritméticas
 │   ├── ConversorTemperatura.java   # Lógica de conversión de temperatura
 │   └── Raizcuadrada_Exponente.java # Lógica de raíz cuadrada y potencia
-└── nbproject/
+└── imagenes/                       # Paquete con recursos gráficos
+    └── calculadora.png             # Ícono de la aplicación
 ```
 
 
