@@ -1,4 +1,4 @@
-Aquí tienes una descripción clara y profesional del proyecto, perfecta para incluirla en tu documentación, en los comentarios de tu código, o en el README.md de tu repositorio en GitHub para que destaque en tu portafolio de desarrollo de software:
+
 
 📝 Descripción del Proyecto: Sistema de Registro y Evaluación Académica
 Este proyecto es una aplicación de escritorio desarrollada en Java utilizando la biblioteca Swing para la interfaz gráfica de usuario (GUI). Su objetivo principal es agilizar e interactuar con el proceso de registro de estudiantes y el cálculo automático de sus calificaciones finales.
