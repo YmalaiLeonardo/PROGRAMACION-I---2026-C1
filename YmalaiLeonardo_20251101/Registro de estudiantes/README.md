@@ -43,7 +43,6 @@ javac InterfazParticipante.java ProcesarDatos.java
 ```
 java RegistroEstudiantes.InterfazParticipante
 ```
-```
 
 ## 👨‍💻 AUTOR
 **Ymalai Dorangel Leonardo Ramon**  
