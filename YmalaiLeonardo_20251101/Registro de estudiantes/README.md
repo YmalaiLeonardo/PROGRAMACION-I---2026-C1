@@ -1,4 +1,4 @@
-#🖥️ Tarea 4.1 — GUI con Clase de Procesamiento
+# 🖥️ Tarea 4.1 — GUI con Clase de Procesamiento
 
 Aplicación de escritorio desarrollada en Java Swing (NetBeans) que permite capturar y presentar los datos de un participante, aplicando los principios de encapsulamiento y separación de responsabilidades mediante una clase dedicada al procesamiento.
 
