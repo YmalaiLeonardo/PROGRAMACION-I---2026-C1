@@ -1,0 +1,11 @@
+Creamos una clase lógica (ProcesarDatos): Le pusimos variables privadas (encapsulamiento). Su única función es guardar en memoria los datos que recibe y devolverlos como un texto ordenado.
+
+Diseñamos una Interfaz Gráfica (GUI): Armamos la ventana con campos de texto y botones usando Java Swing. Esta ventana no procesa información por sí sola, solo lee lo que el usuario escribe.
+
+Conectamos ambas partes (Separación de Responsabilidades): En la ventana, creamos un objeto de la clase lógica.
+
+Al hacer clic en "Capturar", la ventana le envía los textos a la clase para que los guarde de forma segura.
+
+Al hacer clic en "Presentar", la ventana le pide a la clase esos datos y los muestra en un mensaje emergente.
+
+En una sola oración: Hicimos un programa donde la ventana solo sirve de "pantalla", mientras que otra clase completamente separada hace todo el trabajo interno de guardar y organizar la información.
